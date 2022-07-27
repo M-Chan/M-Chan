@@ -1,6 +1,8 @@
 # Welcome to TingTing's Github profile! :wave:
-## 
+**Current focus:** Basic Web dev
+---
 
+### Main Projects throughout the years...
 ### 2022:
 - [**Refugee Roadmap**](https://m-chan.github.io/Athena-Hack-2022/) created for Showcode's Athena 2022 Hackathon working in the 5 women team 'Codecritters' with this [video pitch](https://youtu.be/EDl54dMu6mI)
 - [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/M-Chan) practising Web development ([Profile-Card-Component](https://m-chan.github.io/Profile-Card-Component/); [Product-Preview-Card-Component](https://m-chan.github.io/Product-Preview-Card-Component/))
