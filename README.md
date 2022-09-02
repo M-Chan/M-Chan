@@ -5,7 +5,7 @@
 ### Main Projects throughout the years...
 ### 2022:
 - [**Refugee Roadmap**](https://m-chan.github.io/Athena-Hack-2022/) created for Showcode's Athena 2022 Hackathon working in the 5 women team 'Codecritters' with this [video pitch](https://youtu.be/EDl54dMu6mI)
-- [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/M-Chan) practising Web development in terms of CSS styling, Vanilla JS & APIs ([Profile-Card-Component](https://m-chan.github.io/Profile-Card-Component/); [Product-Preview-Card-Component](https://m-chan.github.io/Product-Preview-Card-Component/); [Advice Generator App](https://m-chan.github.io/Advice-Generator-App/))
+- [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/M-Chan) practising Web development in terms of CSS styling, Vanilla JS & APIs ([Product-Preview-Card-Component](https://m-chan.github.io/Product-Preview-Card-Component/); [Advice Generator App](https://m-chan.github.io/Advice-Generator-App/); [Interactive-Rating-Component](https://m-chan.github.io/Interactive-Rating-Component/))
 
 
 ### 2021:
