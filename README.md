@@ -1,5 +1,5 @@
 # Welcome to TingTing's Github profile! :wave:
-**Current focus:** Basic Web dev
+**Current focus:** Final year of Uni! - Very busy and will not be available for collabs
 ---
 
 ### Main Projects throughout the years...
