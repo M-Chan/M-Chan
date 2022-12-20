@@ -1,5 +1,5 @@
 # Welcome to TingTing's Github profile! :wave:
-**Current focus:** Final year of Uni! - Very busy and will not be available for collabs :disappointed_relieved:
+**Current focus:** Final year of Uni! :disappointed_relieved:
 ---
 
 ### Main Projects throughout the years...
