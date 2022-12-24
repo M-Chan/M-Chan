@@ -22,4 +22,4 @@
 
 [![TingTing's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-chan&count_private=true&show_icons=true&hide=contribs,issues&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![TingTing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m_chan&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![TingTing's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-chan&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![TingTing's Top Langs](https://readme-stats-hx0q25z93-m-chan.vercel.app/api/top-langs/?username=m-chan&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
