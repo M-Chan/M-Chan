@@ -22,6 +22,6 @@
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://readme-stats-hx0q25z93-m-chan.vercel.app/api?username=m-chan&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=jolly&exclude_repo=[readme-stats,github-readme-stats]&custom_title=TingTing's_GitHub_Stats"/>
-<img align="center" src="https://readme-stats-hx0q25z93-m-chan.vercel.app/api/wakatime?username=m_chan&theme=jolly&custom_title=Time_Coded_Since_2022"/>
+<img align="center" src="https://readme-stats-hx0q25z93-m-chan.vercel.app/api/wakatime?username=m_chan&theme=jolly&custom_title=Time_Coded_Over_the_Year"/>
 <img align="center" src="https://readme-stats-hx0q25z93-m-chan.vercel.app/api/top-langs/?username=m-chan&layout=compact&theme=jolly&langs_count=8&exclude_repo=readme-stats,github-readme-stats"/>
 </a>
