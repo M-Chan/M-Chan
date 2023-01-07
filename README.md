@@ -8,10 +8,14 @@
 ---
 
 ### Main Projects throughout the years...
-### 2022:
-- [**Athena Hack Oct 2022**](https://github.com/M-Chan/Athena-Hack-Oct-2022) created for Showcode's October Athena 2022 Hackathon working in the 5 women team 'Octagon'
-- [**Refugee Roadmap**](https://m-chan.github.io/Athena-Hack-2022/) created for Showcode's Athena 2022 Hackathon working in the 5 women team 'Codecritters' with this [video pitch](https://youtu.be/EDl54dMu6mI)
-- [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/M-Chan) practising Web development in terms of CSS Styling, Vanilla JS & APIs ([Social-Media-Dashboard-with-Theme-Switcher](https://m-chan.github.io/Social-Media-Dashboard-with-Theme-Switcher/); [Advice Generator App](https://m-chan.github.io/Advice-Generator-App/); [Interactive-Rating-Component](https://m-chan.github.io/Interactive-Rating-Component/) and more!)
+<details open>
+<summary><strong><big>2022:</big></strong></summary>
+<ul>
+  <li><a href="https://github.com/M-Chan/Athena-Hack-Oct-2022"><b>Athena Hack Oct 2022</b></a> created for Showcode's October Athena 2022 Hackathon working in the 5 women team 'Octagon'</li>
+  <li><a href="https://m-chan.github.io/Athena-Hack-2022/"><b>Refugee Roadmap</b></a> created for Showcode's Athena 2022 Hackathon working in the 5 women team 'Codecritters' with this <a href="https://youtu.be/EDl54dMu6mI">video pitch</a></li>
+  <li><a href="https://www.frontendmentor.io/profile/M-Chan"><b>Frontend Mentor Challenges</b></a> practising Web development in terms of CSS Styling, Vanilla JS & APIs (<a href="https://m-chan.github.io/Social-Media-Dashboard-with-Theme-Switcher/">Social-Media-Dashboard-with-Theme-Switcher</a>; <a href="https://m-chan.github.io/Advice-Generator-App/">Advice Generator App</a>; <a href="https://m-chan.github.io/Interactive-Rating-Component/) and more!">Interactive-Rating-Component</a></li>
+</ul>
+</details>
 
 <details>
 <summary><strong><big>2021:</big></strong></summary>
