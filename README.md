@@ -14,7 +14,7 @@
 - [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/M-Chan) practising Web development in terms of CSS Styling, Vanilla JS & APIs ([Social-Media-Dashboard-with-Theme-Switcher](https://m-chan.github.io/Social-Media-Dashboard-with-Theme-Switcher/); [Advice Generator App](https://m-chan.github.io/Advice-Generator-App/); [Interactive-Rating-Component](https://m-chan.github.io/Interactive-Rating-Component/) and more!)
 
 <details>
-<summary> <strong> 2021: </strong> </summary>
+<summary><strong><big>2021:</big></strong></summary>
 <ul>
   <li> <a href="https://devpost.com/software/fixable-community-powered-repair-app"><b>Fixable App</b></a> created for Showcode's Athena Hackathon working with 4 other amazing women (The_codebrewers) </li>
   <li> <b>Phyphox Arduino project</b> focusing on visualising remote sensor data for my Summer Masterclass Research Placement </li>
