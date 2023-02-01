@@ -30,6 +30,6 @@
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://readme-stats-m-chan.vercel.app/api?username=m-chan&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=jolly&exclude_repo=[readme-stats,github-readme-stats]&custom_title=TíngTíng's_GitHub_Stats"/>
-<img align="center" src="https://readme-stats-m-chan.vercel.app/api/wakatime?username=m_chan&theme=jolly&custom_title=Time_Coded_Over_the_Year&hide=[Text]"/>
+<img align="center" src="https://readme-stats-m-chan.vercel.app/api/wakatime?username=m_chan&theme=jolly&custom_title=Time_Coded_Over_the_Year&hide=Text"/>
 <img align="center" src="https://readme-stats-m-chan.vercel.app/api/top-langs/?username=m-chan&layout=compact&theme=jolly&langs_count=8&exclude_repo=readme-stats,github-readme-stats"/>
 </a>
