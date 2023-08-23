@@ -4,7 +4,7 @@
 </div>
 
 # Welcome to TíngTíng's Github profile! :wave:
-**Current focus:** Final year of Uni! :disappointed_relieved:
+**Current focus:** Python Programming Projects
 ---
 
 ### Main Projects throughout the years...
