@@ -4,7 +4,7 @@
 </div>
 
 # Welcome to TíngTíng's Github profile! :wave:
-**Current focus:** Python Programming Projects
+Graduate Physicist turned Software Engineer
 ---
 
 ### Main Projects throughout the years...
