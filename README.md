@@ -8,6 +8,23 @@ Graduate Physicist turned Software Engineer
 ---
 
 ---
+## :hammer_and_wrench: Tools and Technologies
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
+---
 ## :chart_with_upwards_trend: Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://readme-stats-m-chan.vercel.app/api?username=m-chan&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=jolly&exclude_repo=[readme-stats,github-readme-stats]&custom_title=TíngTíng's_GitHub_Stats"/>
